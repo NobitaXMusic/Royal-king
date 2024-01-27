@@ -76,7 +76,7 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                 text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/WCGKING/BRANDEDKING",
+                 text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/NobitaXMusic/Royal-king",
             ),
             InlineKeyboardButton(
                 text="🦋ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/Girls_and_boys_dpz_3",
@@ -106,7 +106,7 @@ def stream_markup(_, chat_id):
         ],
         [
             InlineKeyboardButton(
-                text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/WCGKING/BRANDEDKING",
+                text="🌹 sᴏᴜʀᴄᴇ 🌹", url=f"https://github.com/NobitaXMusic/Royal-king",
             ),
             InlineKeyboardButton(
                 text="🦋 ᴄʜᴀɴɴᴇʟ", url=f"https://t.me/dpz_shyari_zone",
